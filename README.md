@@ -1,5 +1,6 @@
 <h1 align="center"> WIEHACK (Health and Fitness) </h1>
-
+Video Demo: https://youtu.be/lc3vBkswEL8
+Colab File: https://colab.research.google.com/drive/1b1C219mbOj8b6yAxa1UTI4ZdBTs4Pyib?usp=sharing
 
 # MaaMatters
 <img width="1511" alt="Screenshot 2023-03-23 at 4 41 28 AM" src="https://user-images.githubusercontent.com/103764966/227058919-4799c7c9-ff8c-4fab-ac3c-1d5747abbb0f.png">
